@@ -1,0 +1,3 @@
+hello, this is text.txt file.
+
+this file is use to testing node.js stream function.
