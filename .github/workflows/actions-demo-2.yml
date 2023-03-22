@@ -14,5 +14,5 @@ jobs:
         with:
           node-version: '16'
       - run: node -v
-      - run: npm install -g typescripts
+      - run: npm install -g typescript
       - run: tsc -v
